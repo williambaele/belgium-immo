@@ -54,7 +54,7 @@ const Header = () => {
   };
 
   return (
-    <div className="bg-[#2F27CE] w-full h-14 flex items-center">
+    <div className="bg-gray-300 w-full h-16 flex items-center">
       <div className="px-4 md:px-0 container mx-auto flex justify-between">
         <div>
           <HiHome style={{ fontSize: "26px", color: "#FFFFFF" }} />
